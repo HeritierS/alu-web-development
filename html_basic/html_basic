@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Basics Page</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Welcome to the Basic HTML Page</h1>
+    <p>This is a simple paragraph for the HTML Basics file.</p>
+</body>
+</html>
+
