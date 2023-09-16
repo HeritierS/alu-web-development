@@ -1,18 +1,20 @@
 body {
   display: flex;
-  flex-direction: column
+  flex-direction: column;
 }
 main {
   display: flex;
   flex-direction: row;
-  flex: auto
+  flex: auto;
 }
 article {
   flex: 2;
-  overflow-y: auto
+  overflow-y: auto;
+  color: yellow;
+  background: blue;
 }
 
 aside {
   overflow-y: auto;
-  flex: 1
+  flex: 1;
 }
