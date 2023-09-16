@@ -10,8 +10,14 @@ main {
 article {
   flex: 2;
   overflow-y: auto;
+  color: red;
+  background: lightblue;
+  border-radius: 30px;
+  padding-right: 3cm;
+  border-width: 20cm;
+}
+h1 {
   color: yellow;
-  background: blue;
 }
 
 aside {
