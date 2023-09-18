@@ -1,3 +1,107 @@
 * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    color:;
+}
+
+html {
+    scroll-behavior: none;
+    overflow-x: hidden;
+}
+
+header {
+    height: 150vh;
+    width: 100vw;
+    background-image: url(alu.png);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.me {
+    border-radius: 50%;
+    height: 5cm;
+    width: 5cm;
+    
+}
+
+.video {
+    border-radius: 5%;
+    height: 3cm;
+    width: 7cm;
+    
+}
+
+.authors {
+    border-radius: 50%;
+    height: 1.8cm;
+    width: 1.8cm;
+    
+}
+
+.logo {
+    border-radius: 5%;
+    height: 2cm;
+    width: 5cm;
+    
+}
+
+.container {
+        width: 70%;
+        margin: 0 auto;
+        padding: 20px;
+        background: #050524;
+	color: white;
+	alignment: center;
+	display: flex;
+  	flex-direction: row;
+  	justify-content: center;
+}
+
+.quotation {
+        width: 70%;
+        margin: 0 auto;
+        padding: 20px;
+        background: #dd0bf9;
+	color: white;
+	alignment: left;
+	display: flex;
+  	flex-direction: row;
+  	justify-content: center;
+    }
+
+.footer {
+        width: 70%;
+	height: 5cm;
+        margin: 0 auto;
+        padding: 20px;
+        background: #050524;
+	alignment: center;
+	display: flex;
+  	flex-direction: row;
+  	justify-content: center;
+}
+.rating {
+    border-radius: 50%;
+    height: 1cm;
+    width: 1cm;
+
+#tutors {
+	border-radius: 50%;
 	
+}
+
+button {
+  background-color: violet ;
+  color:white;
+  border: none;
+  height: 1.5cm;
+  width: 4cm;
+  border-radius: 0.75cm;
+}
+
+.Membership-item {
+	background-color:darkblue;
 }
